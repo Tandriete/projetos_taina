@@ -21,7 +21,6 @@
 Atuo com:
 - 📊 Performance comercial
 - 🔍 Detecção de anomalias e fraude
-- 🤖 Modelos preditivos
 - 📈 Construção de pipelines de dados
 
 ---
@@ -47,15 +46,6 @@ Sistema de detecção de comportamento anômalo em vendas
 ✔ Comparação por nível (consultor, loja, regional)  
 ✔ Alertas automatizados  
 ✔ Classificação de risco  
-
----
-
-### 🤖 Segmentação de Consultores
-Agrupamento inteligente para estratégia comercial  
-
-✔ Clusterização (K-Means)  
-✔ Engenharia de features  
-✔ Identificação de perfis  
 
 ---
 
